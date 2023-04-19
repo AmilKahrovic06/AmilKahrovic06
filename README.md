@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amil Kahrovic</h1>
-<img src="https://raw.githubusercontent.com/AmilKahrovic06/AmilKahrovic06/main/assets/header.jpg" align="center" alt="header image">
  
 
 <h3 align="left">Hi 👋, I'm Amil Kahrovic, a frontend developer based in Novi Pazar. I`m working with HTML, CSS, JavaScript, C, and C++.</h3>
