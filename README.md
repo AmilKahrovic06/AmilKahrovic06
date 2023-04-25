@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amil Kahrovic</h1>
 
-<h3>👋 Hi there! I'm Amil Kahrovic, i live in Novi Pazar</h3>
+<h3>👋 Hi there! I'm Amil Kahrovic, living in Novi Pazar</h3>
 
 <h4>🔭 I’m currently looking for job opportunities in web development.</h4>
 
