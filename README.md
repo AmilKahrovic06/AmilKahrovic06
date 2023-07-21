@@ -4,7 +4,7 @@
 
 <h4>🔭 I’m currently looking for job opportunities in web development.</h4>
 
-<h4>🌱 I’m currently learning Javascript and C++.</h4>
+<h4>🌱 I’m currently learning Javascript and React.</h4>
 
 <h4>💬 Ask me about HTML, CSS, JavaScript, C, and C++.</h4>
 
@@ -24,8 +24,5 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo" />
 </p>
-
-
-
-
