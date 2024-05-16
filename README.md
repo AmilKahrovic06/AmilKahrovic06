@@ -4,7 +4,7 @@
 
 <h4>🔭 I’m currently looking for job opportunities in web development.</h4>
 
-<h4>🌱 I’m currently learning Javascript and React.</h4>
+<h4>🌱 I’m currently learning React and C#.</h4>
 
 <h4>💬 Ask me about HTML, CSS, JavaScript, C, and C++.</h4>
 
